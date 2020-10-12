@@ -240,7 +240,7 @@ int main()
 			continue;
 		}
 
-		// If operation requires a poulated list and it's empty
+		// If operation requires a populated list and it's empty
 		if (!AllowEmpty && values->empty())
 		{
 			cout << "Skipping operation '" << operation << "' -> list was empty" << endl;
