@@ -4,6 +4,7 @@
 #include <vector>
 #include <algorithm>
 #include <ctime>
+#include <string.h>
 #include "FileIO.h"
 using namespace std;
 
